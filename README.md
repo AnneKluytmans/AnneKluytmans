@@ -1,11 +1,11 @@
-👋 Hi, I’m Anne (@AnneKluytmans)!  
-I’m a Software Development student at NOVI Hogeschool in Utrecht, the Netherlands.
+#👋 Hi, I’m Anne (@AnneKluytmans)!  
+I’m a Software Development student at NOVI Hogeschool in Utrecht, the Netherlands - with a love for creative problem solving and turning ideas into code.
 
 👀 I’m interested in bringing creativity to life — whether it’s through coding, cooking, or crafting something entirely new.
 
-🌱 Currently, I’m mastering full-stack software development, turning ideas into functional, beautiful applications. My main focus is on HTML/CSS, React, JavaScript, Java and SpringBoot, but I love exploring new technologies.
+🌱 Currently, I’m mastering full-stack development, focusing on HTML/CSS, JavaScript, React, Java and Spring Boot. I enjoy building user-friendly frontends and diving into backend logic — always looking for ways to combine functionality with thoughtful design.
 
-✨ Projects I’m proud of so far:
+✨ **Projects I’m proud of:**
 - **MealMatch**: A frontend app to inspire people with delicious recipes.
 - **Groovify**: A RESTful WebAPI for a vinyl shop—my first steps into building APIs!
 
